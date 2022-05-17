@@ -14,11 +14,11 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_klte.mk
+    $(LOCAL_DIR)/lineage_kltekor.mk
 
 
 
 COMMON_LUNCH_CHOICES := \
-    lineage_klte-user \
-    lineage_klte-userdebug \
-    lineage_klte-eng
+    lineage_kltekor-user \
+    lineage_kltekor-userdebug \
+    lineage_kltekor-eng
